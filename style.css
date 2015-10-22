@@ -12,8 +12,8 @@ body {
 }
 
 .navbar-inverse {
-  background-color: dodgerblue;
-  border-color: dodgerblue;
+  background-color: #3487F1;
+  border-color: #3487F1;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -26,8 +26,8 @@ a {
 }
 
 .well {
-  background-color: dodgerblue;
-  border-color: dodgerblue;
+  background-color: #3487F1;
+  border-color: #3487F1;
 }
 
 h1 {
